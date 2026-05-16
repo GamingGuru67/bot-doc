@@ -1,57 +1,47 @@
-Política de Privacidad
-Esta política de privacidad se aplica a la aplicación Bloxdiegoblox (en adelante denominada "Aplicación") para dispositivos móviles, creada por Bloxdiegoblox (en adelante denominado "Proveedor de Servicios") como un servicio comercial. Este servicio se proporciona "TAL CUAL" (AS IS).
+# Política de Privacidad
 
-Recopilación y Uso de la Información
-La Aplicación recopila información cuando usted la descarga y la utiliza. Esta información puede incluir datos como:
+Esta política de privacidad se aplica al bot de Discord Bloxdiegoblox (en adelante denominado "el Bot"), creado por Bloxdiegoblox (en adelante denominado "el Proveedor de Servicios") como un servicio comercial. Este servicio se proporciona "TAL CUAL" (AS IS).
 
-La dirección de Protocolo de Internet de su dispositivo (por ejemplo, dirección IP).
+## Recopilación y Uso de la Información
+El Bot recopila exclusivamente información técnica esencial proporcionada por la API de Discord cuando interactúa con él dentro de un servidor. Esta información es estrictamente necesaria para la prestación de sus funciones y puede incluir:
 
-Las páginas de la Aplicación que visita, la hora y fecha de su visita y el tiempo pasado en dichas páginas.
+* **Identificadores de Discord:** Identificadores únicos de usuario (*User IDs*), identificadores de servidores (*Guild IDs*) e identificadores de canales (*Channel IDs*).
+* **Datos de configuración:** Ajustes internos establecidos por los administradores de los servidores (por ejemplo, roles autorizados, prefijos personalizados de comandos, o preferencias de sistemas de tickets y música).
+* **Contenido de mensajes:** El Bot únicamente procesa en tiempo real el contenido de los mensajes que sirvan para invocar un comando o que pasen por filtros de moderación automáticos configurados previamente en el servidor. Estos mensajes no se guardan de forma permanente, excepto en funciones explícitas solicitadas por los administradores (como el registro de un canal de logs o transcripciones de tickets cerrados).
 
-El tiempo total dedicado a la Aplicación.
+El Bot no tiene acceso ni recopila contraseñas, correos electrónicos vinculados a Discord, direcciones IP de los usuarios finales o datos de ubicación física de su dispositivo móvil u ordenador.
 
-El sistema operativo que utiliza en su dispositivo móvil.
+**Inteligencia Artificial:** El Bot no utiliza tecnologías de Inteligencia Artificial (IA) para procesar sus datos o proporcionar funciones.
 
-La Aplicación no recopila información precisa sobre la ubicación de su dispositivo móvil.
+El Proveedor de Servicios puede utilizar la información técnica o de contacto disponible para enviarle avisos importantes, anuncios de mantenimiento requeridos o actualizaciones mayores relacionados con el Bot.
 
-Inteligencia Artificial: La Aplicación no utiliza tecnologías de Inteligencia Artificial (IA) para procesar sus datos o proporcionar funciones.
+## Acceso de Terceros
+Los datos recopilados (únicamente IDs y configuraciones internas) no se comercializan con terceros. Periódicamente, solo se transmiten datos agregados y totalmente anonimizados a servicios de infraestructura externos (como el hosting del Bot) para monitorizar el rendimiento y ayudar al Proveedor de Servicios a mejorar el Bot y su estabilidad.
 
-El Proveedor de Servicios puede utilizar la información proporcionada para ponerse en contacto con usted ocasionalmente con el fin de ofrecerle información importante, avisos requeridos y promociones de marketing.
+El Proveedor de Servicios puede revelar la información recopilada únicamente en los siguientes casos:
+* Cuando lo exija la ley, como para cumplir con un proceso legal o requerimiento judicial.
+* Cuando crean de buena fe que la divulgación es necesaria para proteger sus derechos, salvaguardar la seguridad de los usuarios, investigar fraudes técnicos o responder a una solicitud oficial de Discord.
 
-Para una mejor experiencia al utilizar la Aplicación, el Proveedor de Servicios puede solicitarle cierta información de identificación personal, incluyendo, entre otros, el contacto a través de dieg.0o010costa@gmail.com. La información solicitada será conservada y utilizada de acuerdo con lo descrito en esta política de privacidad.
+## Derechos de Exclusión (Opt-Out) y Eliminación de Datos
+Los administradores pueden detener toda la recopilación de información por parte del Bot de forma inmediata simplemente expulsándolo o eliminándolo de su servidor de Discord. 
 
-Acceso de Terceros
-Periódicamente, solo se transmiten datos agregados y anonimizados a servicios externos para ayudar al Proveedor de Servicios a mejorar la Aplicación y su servicio. El Proveedor de Servicios puede compartir su información con terceros de las formas descritas en esta declaración de privacidad.
+Si un usuario o administrador desea que se eliminen permanentemente de la base de datos todos los registros históricos guardados por el Bot referentes a su ID o su comunidad, puede solicitarlo enviando un correo a dieg.0o010costa@gmail.com, y el Proveedor de Servicios responderá en un tiempo razonable.
 
-El Proveedor de Servicios puede revelar la Información Proporcionada por el Usuario y la Información Recopilada Automáticamente:
+## Menores
+El Bot funciona dentro del entorno de Discord y está estrictamente sujeto a los términos de edad de dicha plataforma (los usuarios deben tener al menos 13 años o la edad mínima de consentimiento para servicios digitales exigida en su país de residencia para interactuar con bots de terceros).
 
-Cuando lo exija la ley, como para cumplir con una citación o un proceso legal similar.
+El Bot no recopila conscientemente información de identificación personal de niños. Se insta a todos los menores a no enviar información sensible a través del uso de comandos. Si un padre, madre o tutor legal detecta que se han almacenado datos personales de un menor en las configuraciones del Bot, póngase en contacto con el Proveedor de Servicios en dieg.0o010costa@gmail.com para proceder con su eliminación inmediata.
 
-Cuando crean de buena fe que la divulgación es necesaria para proteger sus derechos, su seguridad o la de otros, investigar fraudes o responder a una solicitud gubernamental.
+## Seguridad
+El Proveedor de Servicios se preocupa por salvaguardar la confidencialidad de la información guardada en las bases de datos técnicas del Bot. Cuenta con medidas de seguridad de procedimiento y electrónicas estándar para evitar el acceso no autorizado a los identificadores y configuraciones almacenados.
 
-Con proveedores de servicios de confianza que trabajan en su nombre, que no tienen un uso independiente de la información que les revelamos y que han acordado adherirse a las reglas establecidas en esta declaración de privacidad.
-
-Derechos de Exclusión (Opt-Out)
-Puede detener toda la recopilación de información por parte de la Aplicación fácilmente desinstalándola. Puede utilizar los procesos de desinstalación estándar disponibles en su dispositivo móvil o a través del mercado de aplicaciones móviles.
-
-Política de Retención de Datos
-El Proveedor de Servicios conservará los datos proporcionados por el usuario mientras utilice la Aplicación y durante un tiempo razonable posterior. Si desea que se eliminen los datos que ha proporcionado a través de la Aplicación, póngase en contacto con dieg.0o010costa@gmail.com y responderemos en un tiempo razonable.
-
-Menores
-El Proveedor de Servicios no utiliza la Aplicación para solicitar datos conscientemente a menores de 13 años ni para realizar actividades de marketing dirigidas a ellos.
-
-El Proveedor de Servicios no recopila conscientemente información de identificación personal de niños. Se insta a todos los menores a no enviar nunca información de identificación personal a través de la Aplicación o los Servicios. Se recomienda a los padres y tutores legales supervisar el uso de internet de sus hijos y ayudar a aplicar esta política instruyendo a sus hijos para que nunca proporcionen información personal sin su permiso. Si tiene motivos para creer que un menor ha proporcionado información personal, póngase en contacto con el Proveedor de Servicios (dieg.0o010costa@gmail.com) para que se tomen las medidas necesarias. Usted también debe tener al menos 16 años de edad para consentir el procesamiento de su información personal en su país (en algunos países, podemos permitir que su padre o tutor lo haga en su nombre).
-
-Seguridad
-El Proveedor de Servicios se preocupa por salvaguardar la confidencialidad de su información y cuenta con medidas de seguridad físicas, electrónicas y de procedimiento para proteger la información que procesa y mantiene.
-
-Cambios
-Esta Política de Privacidad puede ser actualizada periódicamente por cualquier motivo. El Proveedor de Servicios le notificará cualquier cambio actualizando esta página con la nueva Política de Privacidad. Se le aconseja consultar esta Política de Privacidad regularmente, ya que el uso continuado se considera una aprobación de todos los cambios.
+## Cambios
+Esta Política de Privacidad puede ser actualizada periódicamente por cualquier motivo técnico o cambios en las directrices de Discord. El Proveedor de Servicios le notificará cualquier cambio actualizando este documento directamente. Se le aconseja consultar esta Política de Privacidad regularmente, ya que el uso continuado del Bot tras los cambios se considera una aprobación de los mismos.
 
 Esta política de privacidad entra en vigor a partir del 15 de mayo de 2026.
 
-Su Consentimiento
-Al utilizar la Aplicación, usted consiente el procesamiento de su información tal como se establece en esta Política de Privacidad actual y según sea enmendada por nosotros.
+## Su Consentimiento
+Al invitar, añadir o interactuar con el Bot dentro de un servidor, usted consiente el procesamiento de la información técnica del modo que se establece en esta Política de Privacidad actual.
 
-Contacto
-Si tiene alguna pregunta sobre la privacidad mientras utiliza la Aplicación, o sobre las prácticas del servicio, póngase en contacto con el Proveedor de Servicios por correo electrónico en: dieg.0o010costa@gmail.com.
+## Contacto
+Si tiene alguna pregunta sobre la privacidad mientras utiliza el Bot, o sobre las prácticas del servicio, póngase en contacto con el Proveedor de Servicios por correo electrónico en: dieg.0o010costa@gmail.com.
